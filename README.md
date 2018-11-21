@@ -4,15 +4,15 @@
 
 ### Список заданий:
 
-* #### [Полный отчет по теме №1: задача с числами(Лабораторная работа 1+ Лабораторная работа 2 + Самостоятельная работа)](https://github.com/herzenuni/sem5-firsttask-04092018-Kseniaveh)
+* #### [Полный отчет по теме №1: Задача с числами(Лабораторная работа 1+ Лабораторная работа 2 + Самостоятельная работа)](https://github.com/herzenuni/sem5-firsttask-04092018-Kseniaveh)
 
 * #### [Полный отчет по теме: Модули, пакеты и система импорта (Самостоятельная работа)](https://github.com/herzenuni/sem5-2016-packages-Kseniaveh)
   
 * #### [Полный отчет по теме: Введение в ООП](https://github.com/python-advance/sem5-oop-Kseniaveh)
   
-* #### [Полный отчет по теме 13: задача со списком](https://github.com/python-advance/sem4-2016-two-sum-Kseniaveh)
+* #### [Полный отчет по теме 13: Задача со списком](https://github.com/python-advance/sem4-2016-two-sum-Kseniaveh)
 
-* #### [Полный отчет по теме: встроенные коллекции](https://github.com/Kseniaveh)
+* #### [Полный отчет по теме: Встроенные коллекции](https://github.com/Kseniaveh)
 
 * #### [Полный отчет по теме: Декораторы](https://github.com/Kseniaveh)
 
