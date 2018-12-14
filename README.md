@@ -12,8 +12,8 @@
   
 * #### [Полный отчет по теме 13: Задача со списком](https://github.com/python-advance/sem4-2016-two-sum-Kseniaveh)
 
-* #### [Полный отчет по теме 4: Встроенные коллекции](https://github.com/Kseniaveh)
+* #### [Полный отчет по теме 4: Встроенные коллекции](https://github.com/python-advance/sem5-collections-Kseniaveh)
 
-* #### [Полный отчет по теме 2: Декораторы](https://github.com/Kseniaveh)
+* #### [Полный отчет по теме 2: Декораторы](https://github.com/python-advance/sem5-deco-1-Kseniaveh)
 
 * #### [Полный отчет по теме 1: Обработка исключений (дополнительная самостоятельная работа)](https://github.com/python-advance/sem5-exceptions-Kseniaveh)
